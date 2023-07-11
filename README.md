@@ -63,3 +63,34 @@ pip install https://github.com/kswain55/pytorch-boost/archive/refs/heads/master.
 ______________________________________________________________________
 
 
+## Compatibility
+Supported Platform:
+* Linux
+
+Supported Hardware:
+* NVIDIA Hopper, Ada, Ampere, Volta, and Turing architecture
+* AMD CDNA 2/3 and RDNA 2/3
+
+Supported Software Layer:
+* CUDA 11.8 - 12.1 (NVIDIA)
+* ROCM 5.3 and HIP compilation tools (AMD) 
+
+______________________________________________________________________
+
+## Acknowledgements
+We would like to thank Tim Dettmers for his work [bitsandbytes](https://github.com/TimDettmers/bitsandbytes) and the team developing [PyTorch](https://github.com/pytorch/pytorch), allowing us to make this possible. We would also like to thank NVIDIA and AMD for providng the neccessary hardware for testing. 
+
+______________________________________________________________________
+
+
+## How to cite us
+If you found this library useful, please consider citing our work:
+
+```bibtex
+@article{boost2023pytorch,
+  title={Boost},
+  author={minyoungg, kswain55},
+  journal={arXiv preprint arXiv:2023.2023},
+  year={2023}
+}
+```
