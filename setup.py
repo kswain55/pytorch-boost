@@ -6,7 +6,7 @@ setup(
   version = '0.1',
   license='MIT',
   description = 'Deep learning optimization library for PyTorch',
-  author = 'minyoungg, kswain55',
+  author = 'minyoung huh, kswain',
   author_email = 'minhuh@mit.edu, kswain@mit.edu',
   url = 'https://github.com/kswain55/pytorch-boost',
   long_description_content_type = 'text/markdown',

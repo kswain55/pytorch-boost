@@ -72,7 +72,7 @@ Supported Hardware:
 * AMD CDNA 2/3 and RDNA 2/3
 
 Supported Software Layer:
-* CUDA 11.8 - 12.1 (NVIDIA)
+* CUDA 11.8 - 12.2 (NVIDIA)
 * ROCM 5.3 and HIP compilation tools (AMD) 
 
 ______________________________________________________________________
@@ -89,7 +89,7 @@ If you found this library useful, please consider citing our work:
 ```bibtex
 @article{boost2023pytorch,
   title={Boost},
-  author={minyoungg, kswain55},
+  author={minyoung huh, kswain},
   journal={arXiv preprint arXiv:2023.2023},
   year={2023}
 }
