@@ -1,7 +1,7 @@
 <div align="center">
 
 <div align="center">
- <img src="docs/assets/pytorch-boost-banner.svg" width="400px" style="max-width: 100%;">
+ <img src="docs/assets/pytorch-boost-banner.svg" width="300px" style="max-width: 100%;">
 </div>
 
 **Deep Learning framework to accelerate the training of PyTorch models.**
